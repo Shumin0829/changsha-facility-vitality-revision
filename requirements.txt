@@ -1,0 +1,11 @@
+# Core analysis libraries; the full historical environment is requirements-lock.txt.
+joblib==1.6.0
+lightgbm==4.7.0
+numpy==2.5.3
+pandas==3.0.6
+pyproj==3.8.0
+scikit-learn==1.9.1
+scipy==1.18.1
+shap==0.52.0
+xgboost==3.4.1
+

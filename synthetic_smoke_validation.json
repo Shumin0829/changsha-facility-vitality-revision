@@ -1,0 +1,20 @@
+{
+  "synthetic_only": true,
+  "passed": true,
+  "checks": [
+    "main/extended/facility schemas and row alignment",
+    "all packaged example tables match deterministic synthetic regeneration",
+    "missing field, missing value, inconsistent radius rejected",
+    "unambiguous named aliases accepted",
+    "nested 5x3 spatial fold coverage and centre exclusion",
+    "20 synthetic OLS outer fits, pooled metrics, fold coverage and trusted model reload",
+    "fictional SHAP row alignment, importance normalization, missing/changed input-hash rejection and explicit legacy override, metadata-only plotting CLI (no rendering or real SHAP)"
+  ],
+  "packaged_examples_match_synthetic_regeneration": true,
+  "real_data_read": false,
+  "real_models_refitted": 0,
+  "scientific_findings_validated": false,
+  "full_180_model_analysis_rerun": false,
+  "plot_rendering_tested": false,
+  "plot_visual_QA_performed": false
+}

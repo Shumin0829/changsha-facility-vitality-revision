@@ -1,0 +1,36 @@
+{
+  "synthetic": true,
+  "n": 400,
+  "seed": 20261009,
+  "real_data_read": false,
+  "base_fields": [
+    "x",
+    "y",
+    "\u7b49\u7ea7",
+    "SV_weekday",
+    "SV_weekend"
+  ],
+  "main_features": [
+    "BD",
+    "PR",
+    "MD",
+    "ED",
+    "ResiD",
+    "ECED",
+    "SID",
+    "SI",
+    "Mix",
+    "FL",
+    "SFA",
+    "NDVI",
+    "NDWI",
+    "DSS",
+    "DBS",
+    "IRD",
+    "RD",
+    "DCBD",
+    "DRA",
+    "DSF"
+  ],
+  "purpose": "Schema and software smoke tests only; no evidence for real-world scientific claims"
+}

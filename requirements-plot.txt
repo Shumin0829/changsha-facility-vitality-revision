@@ -1,0 +1,7 @@
+# Separate figure-generation environment, Python 3.12.8.
+# Do not install over the locked model-analysis environment.
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.14.1
+matplotlib==3.10.0
+Pillow==11.0.0
